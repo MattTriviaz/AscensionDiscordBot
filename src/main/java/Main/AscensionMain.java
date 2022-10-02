@@ -14,7 +14,7 @@ import java.util.EnumSet;
 public class AscensionMain {
     public static void main(String[] args) throws LoginException {
 
-        JDA jda = JDABuilder.createDefault("ODc3OTY3MTgzMDUxOTExMjEx.YR6UqA.um88P7Q5TGJ99Bn05KyJQCS-bF8",
+        JDA jda = JDABuilder.createDefault("Use Discord Token Here",
                         GatewayIntent.GUILD_PRESENCES,
                         GatewayIntent.GUILD_MEMBERS,
                         GatewayIntent.GUILD_MESSAGES,
